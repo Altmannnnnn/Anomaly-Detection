@@ -37,7 +37,7 @@ Experiments on MVTec AD and MVTec 3D-AD datasets demonstrate that RGPKD achieves
 ## Clone repository
 
 ```shell
-git clone https://github.com/Cariaaaaaa/Anomaly-Detection.git
+git clone https://github.com/Cariaaaaaa/RGPKD.git
 ```
 
 ## Dataset
