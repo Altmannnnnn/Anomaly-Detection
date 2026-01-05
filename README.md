@@ -1,5 +1,5 @@
 # <p align=center> TITLE </p>
-#### Kaiyue Wang, Chengyan Qin, Jieru Chi, Chenglizhao Chen, Teng Yu^* </sup>
+#### Kaiyue Wang, Chengyan Qin, Jieru Chi, Chenglizhao Chen, Teng Yu* </sup>
 
  
  
